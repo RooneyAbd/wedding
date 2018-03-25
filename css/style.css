@@ -1858,6 +1858,8 @@ form label {
 @media screen and (max-width: 768px) {
 #fh5co-header {background-position-x: 50% !important;}
 .mobile {padding: 7em 0 !important;}
+.fh5co-nav {position: absolute !important;}
+#fh5co-couple-story .event-wrap {margin: 5px 0;}
 }
 
 .shadow {background: rgba(0, 0, 0, 0.3);}
