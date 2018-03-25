@@ -1856,7 +1856,7 @@ form label {
 }
 
 @media screen and (max-width: 768px) {
-#fh5co-header {background-position: 50% 50% !important;}
+#fh5co-header {background-position-x: 50% !important;}
 .mobile {padding: 7em 0 !important;}
 }
 
