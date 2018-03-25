@@ -1880,3 +1880,4 @@ form label {
 .mpic {margin: 20px;}
 .mpic img {margin: auto; display: block; max-width: 100%;}
 #back {position: absolute; top: 100px; left: 20px;}
+#back a {cursor: pointer;}
