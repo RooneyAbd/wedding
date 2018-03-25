@@ -1861,6 +1861,7 @@ form label {
 .fh5co-nav {position: absolute !important;}
 #fh5co-couple-story .event-wrap {margin: 5px 0;}
 #back {top: 80px !important;}
+#fh5co-event {height: inherit !important;}
 }
 
 .shadow {background: rgba(0, 0, 0, 0.3);}
@@ -1880,3 +1881,6 @@ form label {
 .mpic {margin: 20px;}
 .mpic img {margin: auto; display: block; max-width: 100%;}
 #back {position: absolute; top: 100px; left: 20px;}
+.info p{text-align: center; color: #fff;}
+.info {margin: 20px 0;}
+#fh5co-event {height: 900px;}
