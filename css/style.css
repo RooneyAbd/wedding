@@ -1860,6 +1860,7 @@ form label {
 .mobile {padding: 7em 0 !important;}
 .fh5co-nav {position: absolute !important;}
 #fh5co-couple-story .event-wrap {margin: 5px 0;}
+#back {top: 80px !important;}
 }
 
 .shadow {background: rgba(0, 0, 0, 0.3);}
@@ -1878,4 +1879,4 @@ form label {
 .more a {border: 2px solid rgba(255, 255, 255, 0.5); padding: 10px 20px; color: #fff;}
 .mpic {margin: 20px;}
 .mpic img {margin: auto; display: block; max-width: 100%;}
-#back {position: fixed; top: 100px; left: 20px;}
+#back {position: absolute; top: 100px; left: 20px;}
